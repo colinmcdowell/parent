@@ -15,8 +15,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <!--
   <modules>
   	<module>../proja</module>
   	<module>../projb</module>
   </modules>
+  -->
 </project>
